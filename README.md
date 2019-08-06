@@ -23,9 +23,14 @@
 | dez.03 | Substitutivas |
 
 ## Critérios
-| Método        | Percentual |
-|---------------|:----------:|
+
+| Método            | Percentual |
+|-------------------|:----------:|
 | **Prova Parcial** |     25%    |
 | Trabalho          |     25%    |
 | Trabalho          |     25%    |
 | **Prova Final**   |     25%    |
+
+## Referências
+
+
