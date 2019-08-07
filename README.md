@@ -1,4 +1,4 @@
-# ESPM :: Inteligência Artificial e a Sociedade : 2019.2
+# ESPM :: Inteligência Artificial e Sociedade : 2019.2
 
 ## Agenda
 
