@@ -27,7 +27,7 @@
 | Método            | Percentual |
 |-------------------|:----------:|
 | **Prova Parcial** |     25%    |
-| Participação      |     25%    |
+| Trabalhos         |     25%    |
 | Trabalhos         |     25%    |
 | **Prova Final**   |     25%    |
 
