@@ -6,7 +6,7 @@
 |-------:|----------|----------|
 | ago.06 | Apresentação e aplicações | vídeo: [This is A.I. - Discovery Channel - Inteligência Artificial - IBM](https://www.youtube.com/watch?v=H3P87qCdqk4) |
 |     13 | História, Conceitos e Automação em IA <br><br> Impactos na sociedade | simulador: [Moral Machine](http://moralmachine.mit.edu) <br> vídeo: [John McCarthy](https://www.youtube.com/watch?v=Ozipf13jRr4) <br> vídeo: [Andrew Ng: Artificial Intelligence is the New Electricity](https://www.youtube.com/watch?v=21EiKfQYZXc) <br> artigo: [Harvard Business Review - Artificial Intelligence for the Real World](https://hbr.org/2018/01/artificial-intelligence-for-the-real-world) |
-|     20 | Dicussões e apresentação do Colab (ambiente de trabalho) | artigo: [FAPESP: O mundo mediado por algoritmos](https://revistapesquisa.fapesp.br/2018/04/19/o-mundo-mediado-por-algoritmos/) <br> livro: [Machine Learning](http://www.cs.cmu.edu/~tom/pubs/MachineLearning.pdf) <br> aplicações: [DeepLearning Galery](http://deeplearninggallery.com/) <br> site: [Colab](https://colab.research.google.com) |
+|     20 | Dicussões e apresentação do Colab (ambiente de trabalho) | artigo: [FAPESP: O mundo mediado por algoritmos](https://revistapesquisa.fapesp.br/2018/04/19/o-mundo-mediado-por-algoritmos/) <br> livro: [Machine Learning](http://www.cs.cmu.edu/~tom/pubs/MachineLearning.pdf) <br> aplicações: [Deep Learning Galery](http://deeplearninggallery.com/) <br> site: [Colab](https://colab.research.google.com) |
 |     27 | **Apresentação de trabalhos** | |
 | set.03 | Classificação e Predição <br><br> Conceito de distância <br><br> Nuvem de dados <br><br> k-nearest neighbors (KNN) | |
 |     10 | Regressão linear | |
