@@ -35,6 +35,7 @@
 
 - S. Russell; P. Norvig: **Artificial Intelligence: A Modern Approach** (3rd Edition), 2009.
 - [Tutorial Python](https://www.tutorialspoint.com/python/)
+- [Butterfly Effect](http://www.scholarpedia.org/article/Butterfly_effect)
 
 ## News
 
