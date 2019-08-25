@@ -35,11 +35,19 @@
 
 - S. Russell; P. Norvig: **Artificial Intelligence: A Modern Approach** (3rd Edition), 2009.
 - [Tutorial Python](https://www.tutorialspoint.com/python/)
-- [Butterfly Effect](http://www.scholarpedia.org/article/Butterfly_effect)
-- [Edward Norton Lorenz](http://eaps4.mit.edu/research/Lorenz/publications.htm)'s Publications
+- Creation  
+  - [This Person Does Not Exist](https://thispersondoesnotexist.com/)
+  - [State of the art can robots be Rembrandts?](https://youtu.be/95CbNzIXCO8)
+  - [GauGAN: Changing Sketches into Photorealistic Masterpieces](https://youtu.be/p5U4NgVGAwg)
+- Fails
+  - [Fooling automated surveillance cameras: adversarial patches to attack person detection](https://arxiv.org/abs/1904.08653) ([video](https://youtu.be/MIbFvK2S9g8))
+- Chaos' Theory
+  - [Butterfly Effect](http://www.scholarpedia.org/article/Butterfly_effect)
+  - [Edward Norton Lorenz](http://eaps4.mit.edu/research/Lorenz/publications.htm)'s Publications
 
 ## News
 
+- 2019.08.24: The Japan Times - [Police in Hong Kong use tear gas; protesters cut down 'smart lamppost'](https://www.japantimes.co.jp/news/2019/08/24/asia-pacific/hong-kong-closes-four-stations-head-off-protest-china-frees-british-consulate-worker/#.XWHZm1DQ_OQ)
 - 2019.08.12: Nature - [An augmented reality microscope with real-time artificial intelligence integration for cancer diagnosis](https://doi.org/10.1038/s41591-019-0539-7)
 - 2019.05.14: NYT - [San Francisco Bans Facial Recognition Technology](https://www.nytimes.com/2019/05/14/us/facial-recognition-ban-san-francisco.html)
 - 2017.07.27: IEEE Spectrum - [The Big Problem With Self-Driving Cars Is People](https://spectrum.ieee.org/transportation/self-driving/the-big-problem-with-selfdriving-cars-is-people)
