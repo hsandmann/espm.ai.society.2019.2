@@ -34,7 +34,9 @@
 ## Referências
 
 - S. Russell; P. Norvig: **Artificial Intelligence: A Modern Approach** (3rd Edition), 2009.
-- [Tutorial Python](https://www.tutorialspoint.com/python/)
+- Python
+  - [Tutorial](https://www.tutorialspoint.com/python/)
+  - [Exact Instructions Challenge](https://youtu.be/cDA3_5982h8)
 - Creation  
   - [This Person Does Not Exist](https://thispersondoesnotexist.com/)
   - [State of the art can robots be Rembrandts?](https://youtu.be/95CbNzIXCO8)
