@@ -49,6 +49,7 @@
 
 ## News
 
+- 2019.08.29: Forbes - [Software Ate The World, Now AI Is Eating Software](https://www.forbes.com/sites/cognitiveworld/2019/08/29/software-ate-the-world-now-ai-is-eating-software/)
 - 2019.08.24: The Japan Times - [Police in Hong Kong use tear gas; protesters cut down 'smart lamppost'](https://www.japantimes.co.jp/news/2019/08/24/asia-pacific/hong-kong-closes-four-stations-head-off-protest-china-frees-british-consulate-worker/#.XWHZm1DQ_OQ)
 - 2019.08.16: Bloomberg - [Biometric Data Breach Could Link Your Face to Illegal Activities](https://www.bloomberg.com/news/articles/2019-08-16/biometric-data-breach-could-link-your-face-to-illegal-activities)
 - 2019.08.12: Nature - [An augmented reality microscope with real-time artificial intelligence integration for cancer diagnosis](https://doi.org/10.1038/s41591-019-0539-7)
