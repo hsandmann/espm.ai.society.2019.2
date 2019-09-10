@@ -9,7 +9,7 @@
 |     20 | Dicussões e apresentação do Colab (ambiente de trabalho) | artigo: [FAPESP: O mundo mediado por algoritmos](https://revistapesquisa.fapesp.br/2018/04/19/o-mundo-mediado-por-algoritmos/) <br> livro: [Machine Learning](http://www.cs.cmu.edu/~tom/pubs/MachineLearning.pdf) <br> aplicações: [Deep Learning Galery](http://deeplearninggallery.com/) <br> site: [Colab](https://colab.research.google.com) |
 |     27 | **Apresentação de trabalhos: O que é IA?** | [Instruções](./1trab.md) <br> Python introdução [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MlnemrzD8FkFeCyp6Pa-Mj7xzjqI2Ok_) |
 | set.03 | Classificação e Predição <br><br> Conceito de distância <br><br> Nuvem de dados | Conceitos básicos [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qDyvyji9I3-ujUCuVCvVPx1RnF7wSVWJ) |
-|     10 | k-nearest neighbors (KNN) | |
+|     10 | k-nearest neighbors (KNN) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1a_S9YD4OPlH8TK6UJFuCCDjdXz58_Ovw) |
 |     17 | Principal component analysis (PCA) | |
 |     24 | Discussões e análise dos experimentos | |
 | out.01 | **Prova Parcial** | |
