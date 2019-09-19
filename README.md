@@ -11,7 +11,7 @@
 | set.03 | Classificação e Predição <br><br> Conceito de distância <br><br> Nuvem de dados | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qDyvyji9I3-ujUCuVCvVPx1RnF7wSVWJ) Conceitos básicos |
 |     10 | k-nearest neighbors (KNN) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1a_S9YD4OPlH8TK6UJFuCCDjdXz58_Ovw) |
 |     17 | Principal component analysis (PCA) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nbpSYqyZeil_NLF8F0jUGu50HL73XDmL) Normalização e redução <br> [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17bLwoRJcxJFRMWvAQnFti35d5JeYyI_t) Eigenfaces |
-|     24 | Discussões e análise dos experimentos | |
+|     24 | Discussões e análise dos experimentos | Reconhecimento facial com OpenCV: PCA + SVM |
 | out.01 | **Prova Parcial** | |
 |     08 | Tomada de decisões <br><br> Bayesian decision tree | |
 |     15 | Natural language processing (NLP) | |
