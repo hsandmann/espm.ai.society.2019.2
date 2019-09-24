@@ -49,6 +49,8 @@
 
 ## News
 
+- 2019.09.24: Wired [Google’s ‘Quantum Supremacy’ Isn’t the End of Encryption](https://www.wired.com/story/googles-quantum-supremacy-isnt-end-encryption/)
+- 2019.09.23: NewScientist [Google claims it has finally reached quantum supremacy](https://www.newscientist.com/article/2217347-google-claims-it-has-finally-reached-quantum-supremacy/)
 - 2019.09.23: CBS News [Man credits this Apple Watch feature for helping save his father](https://www.cbsnews.com/news/apple-watch-saves-life-hard-fall-apple-watch-series-4-falling-emergency-bob-burdett/)
 - 2019.09.21: Twitter @PMERJ [Um homem foi preso, ... após o Sistema de Reconhecimento Facial emitir um alerta...](https://twitter.com/PMERJ/status/1175495473223872519)
 - 2019.09.16: OpenMind [Artificial Intelligence and Its Debt to the Mathematician Gödel](https://www.bbvaopenmind.com/en/technology/artificial-intelligence/artificial-intelligence-and-its-debt-to-the-mathematician-godel/)
