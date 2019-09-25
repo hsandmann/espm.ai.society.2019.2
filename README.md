@@ -49,11 +49,12 @@
 
 ## News
 
-- 2019.09.24: Wired [Google’s ‘Quantum Supremacy’ Isn’t the End of Encryption](https://www.wired.com/story/googles-quantum-supremacy-isnt-end-encryption/)
-- 2019.09.23: NewScientist [Google claims it has finally reached quantum supremacy](https://www.newscientist.com/article/2217347-google-claims-it-has-finally-reached-quantum-supremacy/)
-- 2019.09.23: CBS News [Man credits this Apple Watch feature for helping save his father](https://www.cbsnews.com/news/apple-watch-saves-life-hard-fall-apple-watch-series-4-falling-emergency-bob-burdett/)
-- 2019.09.21: Twitter @PMERJ [Um homem foi preso, ... após o Sistema de Reconhecimento Facial emitir um alerta...](https://twitter.com/PMERJ/status/1175495473223872519)
-- 2019.09.16: OpenMind [Artificial Intelligence and Its Debt to the Mathematician Gödel](https://www.bbvaopenmind.com/en/technology/artificial-intelligence/artificial-intelligence-and-its-debt-to-the-mathematician-godel/)
+- 2019.09.25: MIT Technology Review - [Google has released a giant database of deepfakes to help fight deepfakes](https://www.technologyreview.com/f/614426/google-has-released-a-giant-database-of-deepfakes-to-help-fight-deepfakes/?utm_term=Autofeed&utm_campaign=site_visitor.unpaid.engagement&utm_medium=tr_social&utm_source=LinkedIn#Echobox=1569405611)
+- 2019.09.24: Wired - [Google’s ‘Quantum Supremacy’ Isn’t the End of Encryption](https://www.wired.com/story/googles-quantum-supremacy-isnt-end-encryption/)
+- 2019.09.23: NewScientist - [Google claims it has finally reached quantum supremacy](https://www.newscientist.com/article/2217347-google-claims-it-has-finally-reached-quantum-supremacy/)
+- 2019.09.23: CBS News - [Man credits this Apple Watch feature for helping save his father](https://www.cbsnews.com/news/apple-watch-saves-life-hard-fall-apple-watch-series-4-falling-emergency-bob-burdett/)
+- 2019.09.21: Twitter @PMERJ - [Um homem foi preso, ... após o Sistema de Reconhecimento Facial emitir um alerta...](https://twitter.com/PMERJ/status/1175495473223872519)
+- 2019.09.16: OpenMind - [Artificial Intelligence and Its Debt to the Mathematician Gödel](https://www.bbvaopenmind.com/en/technology/artificial-intelligence/artificial-intelligence-and-its-debt-to-the-mathematician-godel/)
 - 2019.09.13: IEEE Spectrum - [Video Friday: Watch This Robot Dog Explore an Underground Tunnel Autonomously](https://spectrum.ieee.org/automaton/robotics/robotics-hardware/video-friday-robots-explore-tunnels-darpa-subt)
 - 2019.09.12: CMU - [GymCam Tracks Exercises That Wearable Monitors Can't](https://www.cs.cmu.edu/news/gymcam-tracks-exercises-wearable-monitors-cant)
 - 2019.08.29: Forbes - [Software Ate The World, Now AI Is Eating Software](https://www.forbes.com/sites/cognitiveworld/2019/08/29/software-ate-the-world-now-ai-is-eating-software/)
