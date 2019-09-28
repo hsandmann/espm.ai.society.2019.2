@@ -1,5 +1,7 @@
 # ESPM :: Inteligência Artificial e Sociedade : 2019.2
 
+[Prof. Humberto Sandmann, PhD.](https://hsandmann.github.io/)
+
 ## Agenda
 
 | Data   | Conteúdo | Material |
