@@ -59,6 +59,7 @@
 - 2019.09.16: OpenMind - [Artificial Intelligence and Its Debt to the Mathematician Gödel](https://www.bbvaopenmind.com/en/technology/artificial-intelligence/artificial-intelligence-and-its-debt-to-the-mathematician-godel/)
 - 2019.09.13: IEEE Spectrum - [Video Friday: Watch This Robot Dog Explore an Underground Tunnel Autonomously](https://spectrum.ieee.org/automaton/robotics/robotics-hardware/video-friday-robots-explore-tunnels-darpa-subt)
 - 2019.09.12: CMU - [GymCam Tracks Exercises That Wearable Monitors Can't](https://www.cs.cmu.edu/news/gymcam-tracks-exercises-wearable-monitors-cant)
+- 2019.09.11: Google AI Blog - [Learning Cross-Modal Temporal Representations from Unlabeled Videos](https://ai.googleblog.com/2019/09/learning-cross-modal-temporal.html)
 - 2019.08.29: Forbes - [Software Ate The World, Now AI Is Eating Software](https://www.forbes.com/sites/cognitiveworld/2019/08/29/software-ate-the-world-now-ai-is-eating-software/)
 - 2019.08.24: The Japan Times - [Police in Hong Kong use tear gas; protesters cut down 'smart lamppost'](https://www.japantimes.co.jp/news/2019/08/24/asia-pacific/hong-kong-closes-four-stations-head-off-protest-china-frees-british-consulate-worker/#.XWHZm1DQ_OQ)
 - 2019.08.16: Bloomberg - [Biometric Data Breach Could Link Your Face to Illegal Activities](https://www.bloomberg.com/news/articles/2019-08-16/biometric-data-breach-could-link-your-face-to-illegal-activities)
