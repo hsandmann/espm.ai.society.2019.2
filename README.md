@@ -53,6 +53,7 @@
 
 ## News
 
+- 2019.10.09: Fortune [Artificial Intelligence Could Be a $14 Trillion Boon to the Global Economy—If It Can Overcome These Obstacles](https://fortune.com/2019/10/09/artificial-intelligence-14-trillion-boon-only-if-overcome-one-thing/)
 - 2019.09.25: MIT Technology Review - [Google has released a giant database of deepfakes to help fight deepfakes](https://www.technologyreview.com/f/614426/google-has-released-a-giant-database-of-deepfakes-to-help-fight-deepfakes/?utm_term=Autofeed&utm_campaign=site_visitor.unpaid.engagement&utm_medium=tr_social&utm_source=LinkedIn#Echobox=1569405611)
 - 2019.09.24: Wired - [Google’s ‘Quantum Supremacy’ Isn’t the End of Encryption](https://www.wired.com/story/googles-quantum-supremacy-isnt-end-encryption/)
 - 2019.09.23: NewScientist - [Google claims it has finally reached quantum supremacy](https://www.newscientist.com/article/2217347-google-claims-it-has-finally-reached-quantum-supremacy/)
