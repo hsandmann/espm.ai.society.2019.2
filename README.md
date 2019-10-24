@@ -53,6 +53,7 @@
 
 ## News
 
+- 2019.10.23: Nature - [Quantum supremacy using a programmable superconducting processor](https://www.nature.com/articles/s41586-019-1666-5)
 - 2019.10.09: Fortune - [Artificial Intelligence Could Be a $14 Trillion Boon to the Global Economy—If It Can Overcome These Obstacles](https://fortune.com/2019/10/09/artificial-intelligence-14-trillion-boon-only-if-overcome-one-thing/)
 - 2019.10.07: Towards Data Science - [DeepMind is Using This Old Technique to Evaluate Fairness in Machine Learning Models](https://towardsdatascience.com/deepmind-is-using-this-old-technique-to-evaluate-fairness-in-machine-learning-models-f33bce98196e) (article: [A Causal Bayesian Networks Viewpoint on Fairness](https://arxiv.org/abs/1907.06430))
 - 2019.09.25: MIT Technology Review - [Google has released a giant database of deepfakes to help fight deepfakes](https://www.technologyreview.com/f/614426/google-has-released-a-giant-database-of-deepfakes-to-help-fight-deepfakes/?utm_term=Autofeed&utm_campaign=site_visitor.unpaid.engagement&utm_medium=tr_social&utm_source=LinkedIn#Echobox=1569405611)
