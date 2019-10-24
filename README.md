@@ -53,6 +53,7 @@
 
 ## News
 
+- 2019.10.23: Science - [AI allows paralyzed person to ‘handwrite’ with his mind](https://www.sciencemag.org/news/2019/10/ai-allows-paralyzed-person-handwrite-his-mind)
 - 2019.10.23: Nature - [Quantum supremacy using a programmable superconducting processor](https://www.nature.com/articles/s41586-019-1666-5)
 - 2019.10.09: Fortune - [Artificial Intelligence Could Be a $14 Trillion Boon to the Global Economy—If It Can Overcome These Obstacles](https://fortune.com/2019/10/09/artificial-intelligence-14-trillion-boon-only-if-overcome-one-thing/)
 - 2019.10.07: Towards Data Science - [DeepMind is Using This Old Technique to Evaluate Fairness in Machine Learning Models](https://towardsdatascience.com/deepmind-is-using-this-old-technique-to-evaluate-fairness-in-machine-learning-models-f33bce98196e) (article: [A Causal Bayesian Networks Viewpoint on Fairness](https://arxiv.org/abs/1907.06430))
