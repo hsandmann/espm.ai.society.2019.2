@@ -18,7 +18,7 @@
 |     08 | Tomada de decisões <br> Bayesian decision tree | artigo: [What AI-Driven Decision Making Looks Like](https://hbr.org/2019/07/what-ai-driven-decision-making-looks-like)<br> [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Xpx2AsBE_Kxj3rBjKTjci0_GBfjNL1Rj) Teorema de Bayes <br> [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bEfgKPZQerDQgDv5kEkyVfStXZuAVAwP) Naïve Bayes for Text Classification |
 |     15 | Natural language processing (NLP) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1scxjIBihj6ggzESqZWx6UpPxpgJHmx93) Redes de Hopfield<br> [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1oi5J-W5cd6M0NwNBPleqmkbKzn2k2a38) RNN: Text Generator : Shakespeare <br> [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZBGRljf8CnPXbhWyxd4c87M17jzAtpun) RNN: Text Generator : Camões |
 |     22 | **Apresentação de trabalhos** | |
-|     29 | Multi layer Perceptron (MLP) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WmvzK7nB_cl8ZiU6QxrCfmpxQr54HzWd) Redes Neurais Artificiais (ANN) <br> artigo: [Perceptron](https://hackernoon.com/perceptron-deep-learning-basics-3a938c5f84b6) <br> simulador: [Playground TensorFlow](http://playground.tensorflow.org) |
+|     29 | Multi layer Perceptron (MLP) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WmvzK7nB_cl8ZiU6QxrCfmpxQr54HzWd) Redes Neurais Artificiais (ANN) <br> artigo: [Perceptron](https://hackernoon.com/perceptron-deep-learning-basics-3a938c5f84b6) <br> simulador: [Playground TensorFlow](http://playground.tensorflow.org) <br> [Garby](https://tech-espm.github.io/garby) |
 | nov.05 | Deep learning | |
 |     19 | Generative adversarial networks (GANs) | simulador: [GAN Lab](https://poloclub.github.io/ganlab/) <br> |
 |     26 | **Prova Final** | |
@@ -39,6 +39,8 @@
 - Python
   - [Tutorial](https://www.tutorialspoint.com/python/)
   - [Exact Instructions Challenge](https://youtu.be/cDA3_5982h8)
+- GitHub
+  - [Tutorial](https://www.tutorialspoint.com/git/)
 - Creation  
   - [This Person Does Not Exist](https://thispersondoesnotexist.com/)
   - [State of the art can robots be Rembrandts?](https://youtu.be/95CbNzIXCO8)
