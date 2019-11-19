@@ -20,8 +20,8 @@
 |     22 | **Apresentação de trabalhos** | |
 |     29 | Multi layer Perceptron (MLP) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WmvzK7nB_cl8ZiU6QxrCfmpxQr54HzWd) Redes Neurais Artificiais (ANN) <br> artigo: [Perceptron](https://hackernoon.com/perceptron-deep-learning-basics-3a938c5f84b6) <br> simulador: [Playground TensorFlow](http://playground.tensorflow.org) <br> [Garby](https://tech-espm.github.io/garby) |
 | nov.05 | Deep learning | artigo: [Image Classifier - Cats vs Dogs](https://towardsdatascience.com/image-classifier-cats-vs-dogs-with-convolutional-neural-networks-cnns-and-google-colabs-4e9af21ae7a8) <br> video: [Torsten Wiesel: Exploring the Visual Brain](https://www.youtube.com/watch?v=aqzWy-zALzY) <br> blog: [Adit Deshpande](https://adeshpande3.github.io/) <br> artigo: [Style Transfer - Styling Images with Convolutional Neural Networks](https://towardsdatascience.com/style-transfer-styling-images-with-convolutional-neural-networks-7d215b58f461) <br> gallery: [Deep Learning Gallery](http://deeplearninggallery.com/) <br> artigo: [Temporal Convolutional Network](https://www.kaggle.com/christofhenkel/temporal-convolutional-network) <br> artigo: [Illustrated Guide to LSTM’s and GRU’s: A step by step explanation](https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21) <br> [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1K_7SoHIXyP42Mqv3_PS_2_VV6HFGd-8P) LSTM: Time Series |
-|     19 | Generative adversarial networks (GANs) | simulador: [GAN Lab](https://poloclub.github.io/ganlab/) <br> |
-|     26 | **Prova Final** | |
+|     19 | Generative adversarial networks (GANs) | simulador: [GAN Lab](https://poloclub.github.io/ganlab/) <br> artigo: [Catch me if you can: A simple english explanation of GANs or Dueling neural-nets](https://towardsdatascience.com/catch-me-if-you-can-a-simple-english-explanation-of-gans-or-dueling-neural-nets-319a273434db) <br> artigo: [Generative Adversarial Networks — Explained](https://towardsdatascience.com/generative-adversarial-networks-explained-34472718707a) <br> curso: [Introduction to Deep Learning](http://introtodeeplearning.com/) <br> tutorial: [NIPS 2016 Tutorial: Generative Adversarial Networks](https://arxiv.org/abs/1701.00160) <br> artigo: [Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis](https://arxiv.org/abs/1806.04558) <br> [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LpldQbfrLo52WgBAQ6BYzshS8r70Yxio) DCGAN |
+|     26 | **Prova Final** | Apresentação: <br> - Produto onde o ponto essencial seja Machine Learning <br> - Estimar técnicas de Machine Learning aplicáveis ao problema <br> - Implementação (bônus) |
 | dez.03 | Substitutivas | |
 
 ## Critérios
@@ -49,6 +49,7 @@
   - [Fooling automated surveillance cameras: adversarial patches to attack person detection](https://arxiv.org/abs/1904.08653) ([video](https://youtu.be/MIbFvK2S9g8))
 - [Think Bayes: Bayesian Statistics Made Simple](http://www.greenteapress.com/thinkbayes/thinkbayes.pdf)
 - [National Heart, Lung, and Blood Institute](https://www.nhlbi.nih.gov/health-topics/assessing-cardiovascular-risk)
+- [Tutorials in NIPS 2016](https://shubhamjain0594.github.io/post/nips-2016/)
 - Chaos' Theory
   - [Butterfly Effect](http://www.scholarpedia.org/article/Butterfly_effect)
   - [Edward Norton Lorenz](http://eaps4.mit.edu/research/Lorenz/publications.htm)'s Publications
